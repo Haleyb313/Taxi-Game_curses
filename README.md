@@ -1,5 +1,5 @@
 # Taxi-Game_curses
-A little taxi game
+A little taxi game:
 
 Collect passengers (X), then drop them off at their destination (#)
 
